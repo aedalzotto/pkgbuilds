@@ -1,0 +1,35 @@
+# Maintainer: Angelo Elias Dal Zotto <angelodalzotto97@gmail.com>
+
+_pkgname=behaviortree-cpp-3
+pkgname=ros2-humble-$_pkgname
+pkgver=3.8.2
+pkgrel=1
+pkgdesc="Behavior Trees Library in C++. Batteries included."
+url="https://index.ros.org/p/behaviortree_cpp/"
+arch=('any')
+depends=(
+    'ros2-humble' 
+)
+source=("https://github.com/BehaviorTree/BehaviorTree.CPP/archive/refs/tags/${pkgver}.tar.gz")
+sha256sums=('4dc05b68806f80dd13e3c8d55b32d4414a03b5b89d4f3aa089d667d901f36aa3')
+
+prepare() {
+    cd $srcdir/BehaviorTree.CPP-$pkgver
+
+    source /opt/ros/humble/setup.sh
+
+    cmake -S . -B build -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/opt/ros/humble
+}
+
+build() {
+    cd $srcdir/BehaviorTree.CPP-$pkgver
+
+    source /opt/ros/humble/setup.sh
+
+    make -C build
+}
+
+package() {
+    cd $srcdir/BehaviorTree.CPP-$pkgver
+    make DESTDIR="$pkgdir/" -C build install
+}
