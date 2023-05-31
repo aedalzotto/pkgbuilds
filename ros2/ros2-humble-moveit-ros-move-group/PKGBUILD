@@ -3,14 +3,13 @@
 _pkgname=moveit_ros/move_group
 pkgname=ros2-humble-moveit-ros-move-group
 pkgver=2.5.4
-pkgrel=2
+pkgrel=3
 pkgdesc="The move_group node for MoveIt"
 url="https://index.ros.org/p/moveit_ros_move_group/"
 arch=('any')
 makedepends=(
     'ros2-humble-moveit-common'
     'ros2-humble-moveit-resources-fanuc-moveit-config'
-    'lld'
 )
 depends=(
     'ros2-humble'
@@ -27,8 +26,7 @@ prepare() {
 
     cmake -S moveit2-$pkgver/$_pkgname -B build \
         -DCMAKE_BUILD_TYPE=Release \
-        -DCMAKE_INSTALL_PREFIX=/opt/ros/humble \
-        -DCMAKE_EXE_LINKER_FLAGS=-fuse-ld=lld
+        -DCMAKE_INSTALL_PREFIX=/opt/ros/humble
 }
 
 build() {
