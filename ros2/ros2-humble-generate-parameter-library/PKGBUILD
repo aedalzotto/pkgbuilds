@@ -3,7 +3,7 @@
 _pkgname=generate_parameter_library
 pkgname=ros2-humble-generate-parameter-library
 pkgver=0.3.3
-pkgrel=2
+pkgrel=1
 pkgdesc="CMake to generate ROS parameter library"
 url="https://index.ros.org/p/generate_parameter_library/"
 arch=('any')
