@@ -2,8 +2,8 @@
 
 _pkgname=ros2_control_test_assets
 pkgname=ros2-humble-ros2-control-test-assets
-pkgver=2.24.1
-pkgrel=2
+pkgver=2.26.0
+pkgrel=1
 pkgdesc="The package provides shared test resources for ros2_control stack"
 url="https://index.ros.org/p/ros2_control_test_assets/"
 arch=('any')
@@ -11,7 +11,7 @@ depends=(
     'ros2-humble'
 )
 source=("https://github.com/ros-controls/ros2_control/archive/refs/tags/${pkgver}.tar.gz")
-sha256sums=('ceaa6c11965e2136d1a511584bdaf5694f1e665429860ccac8b65f59230e14b2')
+sha256sums=('bb8b1233fa6db7dd2f56cf350c9ef9c5750f83e212df62981480a2453656f0cf')
 
 prepare() {
     source /opt/ros/humble/setup.bash
