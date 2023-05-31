@@ -1,6 +1,6 @@
 pkgbase = ros2-humble-forward-command-controller
 	pkgdesc = Generic controller for forwarding commands
-	pkgver = 2.17.2
+	pkgver = 2.17.3
 	pkgrel = 2
 	url = https://index.ros.org/p/forward_command_controller/
 	arch = any
@@ -12,7 +12,7 @@ pkgbase = ros2-humble-forward-command-controller
 	depends = ros2-humble-generate-parameter-library
 	depends = ros2-humble-hardware-interface
 	depends = ros2-humble-realtime-tools
-	source = https://github.com/ros-controls/ros2_controllers/archive/refs/tags/2.17.2.tar.gz
-	sha256sums = 87f488479f0d4cdbdcdef5ec5a6238c8fd4a84fda9f365d90feafb1f3903c245
+	source = https://github.com/ros-controls/ros2_controllers/archive/refs/tags/2.17.3.tar.gz
+	sha256sums = e42b1e8b59c44c0ac8d272255a5b8e9922d489ce5d05e7da796dcb92e24a6b58
 
 pkgname = ros2-humble-forward-command-controller
