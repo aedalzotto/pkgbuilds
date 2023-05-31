@@ -2,7 +2,7 @@
 
 _pkgname=generate_parameter_library
 pkgname=ros2-humble-generate-parameter-library
-pkgver=0.3.1
+pkgver=0.3.3
 pkgrel=2
 pkgdesc="CMake to generate ROS parameter library"
 url="https://index.ros.org/p/generate_parameter_library/"
@@ -17,7 +17,7 @@ depends=(
     'ros2-humble-generate-parameter-library-py'
 )
 source=("https://github.com/PickNikRobotics/generate_parameter_library/archive/refs/tags/${pkgver}.tar.gz")
-sha256sums=('1b0a4a2e30518ac3b416798cc593edfe1ec488d0c1ab05dbb31ae40c28f1edec')
+sha256sums=('f1fd0bd411191a68ce70833c97aa0925525951127709819eb00e7a4007f5447e')
 
 prepare() {
     source /opt/ros/humble/setup.bash
