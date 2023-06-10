@@ -1,0 +1,3 @@
+[submodule "ros2/ros2-humble-angles"]
+	path = ros2/ros2-humble-angles
+	url = ssh://aur@aur.archlinux.org/ros2-humble-angles.git
