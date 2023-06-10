@@ -18,6 +18,7 @@ def update(repo, version, release, commit):
         chdir(pkgbuild)
         run(["sed", "-i", "s/pkgver=.*/pkgver={}/g".format(version), "PKGBUILD"])
         run(["sed", "-i", "s/pkgrel=.*/pkgrel={}/g".format(release), "PKGBUILD"])
+        # run(["sed", "-i", "s/epoch=.*/epoch=2/g", "PKGBUILD"])
         run(["updpkgsums"])
         srcinfo = check_output(["makepkg", "--printsrcinfo"]).decode('utf-8')
         with open(".SRCINFO", 'w') as f:
