@@ -1,3 +1,330 @@
 [submodule "ros2/ros2-humble-angles"]
 	path = ros2/ros2-humble-angles
 	url = ssh://aur@aur.archlinux.org/ros2-humble-angles.git
+[submodule "ros2/ros2-humble-backward-ros"]
+	path = ros2/ros2-humble-backward-ros
+	url = ssh://aur@aur.archlinux.org/ros2-humble-backward-ros.git
+[submodule "ros2/ros2-humble-behaviortree-cpp-v3"]
+	path = ros2/ros2-humble-behaviortree-cpp-v3
+	url = ssh://aur@aur.archlinux.org/ros2-humble-behaviortree-cpp-v3.git
+[submodule "ros2/ros2-humble-bond"]
+	path = ros2/ros2-humble-bond
+	url = ssh://aur@aur.archlinux.org/ros2-humble-bond.git
+[submodule "ros2/ros2-humble-bondcpp"]
+	path = ros2/ros2-humble-bondcpp
+	url = ssh://aur@aur.archlinux.org/ros2-humble-bondcpp.git
+[submodule "ros2/ros2-humble-controller-interface"]
+	path = ros2/ros2-humble-controller-interface
+	url = ssh://aur@aur.archlinux.org/ros2-humble-controller-interface.git
+[submodule "ros2/ros2-humble-controller-manager"]
+	path = ros2/ros2-humble-controller-manager
+	url = ssh://aur@aur.archlinux.org/ros2-humble-controller-manager.git
+[submodule "ros2/ros2-humble-controller-manager-msgs"]
+	path = ros2/ros2-humble-controller-manager-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-controller-manager-msgs.git
+[submodule "ros2/ros2-humble-control-msgs"]
+	path = ros2/ros2-humble-control-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-control-msgs.git
+[submodule "ros2/ros2-humble-control-toolbox"]
+	path = ros2/ros2-humble-control-toolbox
+	url = ssh://aur@aur.archlinux.org/ros2-humble-control-toolbox.git
+[submodule "ros2/ros2-humble-costmap-queue"]
+	path = ros2/ros2-humble-costmap-queue
+	url = ssh://aur@aur.archlinux.org/ros2-humble-costmap-queue.git
+[submodule "ros2/ros2-humble-cv-bridge"]
+	path = ros2/ros2-humble-cv-bridge
+	url = ssh://aur@aur.archlinux.org/ros2-humble-cv-bridge.git
+[submodule "ros2/ros2-humble-diagnostic-updater"]
+	path = ros2/ros2-humble-diagnostic-updater
+	url = ssh://aur@aur.archlinux.org/ros2-humble-diagnostic-updater.git
+[submodule "ros2/ros2-humble-diff-drive-controller"]
+	path = ros2/ros2-humble-diff-drive-controller
+	url = ssh://aur@aur.archlinux.org/ros2-humble-diff-drive-controller.git
+[submodule "ros2/ros2-humble-dwb-core"]
+	path = ros2/ros2-humble-dwb-core
+	url = ssh://aur@aur.archlinux.org/ros2-humble-dwb-core.git
+[submodule "ros2/ros2-humble-dwb-critics"]
+	path = ros2/ros2-humble-dwb-critics
+	url = ssh://aur@aur.archlinux.org/ros2-humble-dwb-critics.git
+[submodule "ros2/ros2-humble-dwb-msgs"]
+	path = ros2/ros2-humble-dwb-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-dwb-msgs.git
+[submodule "ros2/ros2-humble-dwb-plugins"]
+	path = ros2/ros2-humble-dwb-plugins
+	url = ssh://aur@aur.archlinux.org/ros2-humble-dwb-plugins.git
+[submodule "ros2/ros2-humble-eigen-stl-containers"]
+	path = ros2/ros2-humble-eigen-stl-containers
+	url = ssh://aur@aur.archlinux.org/ros2-humble-eigen-stl-containers.git
+[submodule "ros2/ros2-humble-forward-command-controller"]
+	path = ros2/ros2-humble-forward-command-controller
+	url = ssh://aur@aur.archlinux.org/ros2-humble-forward-command-controller.git
+[submodule "ros2/ros2-humble-gazebo-dev"]
+	path = ros2/ros2-humble-gazebo-dev
+	url = ssh://aur@aur.archlinux.org/ros2-humble-gazebo-dev.git
+[submodule "ros2/ros2-humble-gazebo-msgs"]
+	path = ros2/ros2-humble-gazebo-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-gazebo-msgs.git
+[submodule "ros2/ros2-humble-gazebo-plugins"]
+	path = ros2/ros2-humble-gazebo-plugins
+	url = ssh://aur@aur.archlinux.org/ros2-humble-gazebo-plugins.git
+[submodule "ros2/ros2-humble-gazebo-ros"]
+	path = ros2/ros2-humble-gazebo-ros
+	url = ssh://aur@aur.archlinux.org/ros2-humble-gazebo-ros.git
+[submodule "ros2/ros2-humble-gazebo-ros2-control"]
+	path = ros2/ros2-humble-gazebo-ros2-control
+	url = ssh://aur@aur.archlinux.org/ros2-humble-gazebo-ros2-control.git
+[submodule "ros2/ros2-humble-generate-parameter-library"]
+	path = ros2/ros2-humble-generate-parameter-library
+	url = ssh://aur@aur.archlinux.org/ros2-humble-generate-parameter-library.git
+[submodule "ros2/ros2-humble-generate-parameter-library-py"]
+	path = ros2/ros2-humble-generate-parameter-library-py
+	url = ssh://aur@aur.archlinux.org/ros2-humble-generate-parameter-library-py.git
+[submodule "ros2/ros2-humble-geometric-shapes"]
+	path = ros2/ros2-humble-geometric-shapes
+	url = ssh://aur@aur.archlinux.org/ros2-humble-geometric-shapes.git
+[submodule "ros2/ros2-humble-hardware-interface"]
+	path = ros2/ros2-humble-hardware-interface
+	url = ssh://aur@aur.archlinux.org/ros2-humble-hardware-interface.git
+[submodule "ros2/ros2-humble-joint-state-broadcaster"]
+	path = ros2/ros2-humble-joint-state-broadcaster
+	url = ssh://aur@aur.archlinux.org/ros2-humble-joint-state-broadcaster.git
+[submodule "ros2/ros2-humble-joint-state-publisher"]
+	path = ros2/ros2-humble-joint-state-publisher
+	url = ssh://aur@aur.archlinux.org/ros2-humble-joint-state-publisher.git
+[submodule "ros2/ros2-humble-joint-state-publisher-gui"]
+	path = ros2/ros2-humble-joint-state-publisher-gui
+	url = ssh://aur@aur.archlinux.org/ros2-humble-joint-state-publisher-gui.git
+[submodule "ros2/ros2-humble-joint-trajectory-controller"]
+	path = ros2/ros2-humble-joint-trajectory-controller
+	url = ssh://aur@aur.archlinux.org/ros2-humble-joint-trajectory-controller.git
+[submodule "ros2/ros2-humble-joy-teleop"]
+	path = ros2/ros2-humble-joy-teleop
+	url = ssh://aur@aur.archlinux.org/ros2-humble-joy-teleop.git
+[submodule "ros2/ros2-humble-launch-param-builder"]
+	path = ros2/ros2-humble-launch-param-builder
+	url = ssh://aur@aur.archlinux.org/ros2-humble-launch-param-builder.git
+[submodule "ros2/ros2-humble-moveit-common"]
+	path = ros2/ros2-humble-moveit-common
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-common.git
+[submodule "ros2/ros2-humble-moveit-configs-utils"]
+	path = ros2/ros2-humble-moveit-configs-utils
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-configs-utils.git
+[submodule "ros2/ros2-humble-moveit-core"]
+	path = ros2/ros2-humble-moveit-core
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-core.git
+[submodule "ros2/ros2-humble-moveit-kinematics"]
+	path = ros2/ros2-humble-moveit-kinematics
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-kinematics.git
+[submodule "ros2/ros2-humble-moveit-msgs"]
+	path = ros2/ros2-humble-moveit-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-msgs.git
+[submodule "ros2/ros2-humble-moveit-planners-ompl"]
+	path = ros2/ros2-humble-moveit-planners-ompl
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-planners-ompl.git
+[submodule "ros2/ros2-humble-moveit-resources-fanuc-description"]
+	path = ros2/ros2-humble-moveit-resources-fanuc-description
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-resources-fanuc-description.git
+[submodule "ros2/ros2-humble-moveit-resources-fanuc-moveit-config"]
+	path = ros2/ros2-humble-moveit-resources-fanuc-moveit-config
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-resources-fanuc-moveit-config.git
+[submodule "ros2/ros2-humble-moveit-resources-panda-description"]
+	path = ros2/ros2-humble-moveit-resources-panda-description
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-resources-panda-description.git
+[submodule "ros2/ros2-humble-moveit-resources-panda-moveit-config"]
+	path = ros2/ros2-humble-moveit-resources-panda-moveit-config
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-resources-panda-moveit-config.git
+[submodule "ros2/ros2-humble-moveit-resources-pr2-description"]
+	path = ros2/ros2-humble-moveit-resources-pr2-description
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-resources-pr2-description.git
+[submodule "ros2/ros2-humble-moveit-ros-control-interface"]
+	path = ros2/ros2-humble-moveit-ros-control-interface
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-control-interface.git
+[submodule "ros2/ros2-humble-moveit-ros-move-group"]
+	path = ros2/ros2-humble-moveit-ros-move-group
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-move-group.git
+[submodule "ros2/ros2-humble-moveit-ros-occupancy-map-monitor"]
+	path = ros2/ros2-humble-moveit-ros-occupancy-map-monitor
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-occupancy-map-monitor.git
+[submodule "ros2/ros2-humble-moveit-ros-planning"]
+	path = ros2/ros2-humble-moveit-ros-planning
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-planning.git
+[submodule "ros2/ros2-humble-moveit-ros-planning-interface"]
+	path = ros2/ros2-humble-moveit-ros-planning-interface
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-planning-interface.git
+[submodule "ros2/ros2-humble-moveit-ros-robot-interaction"]
+	path = ros2/ros2-humble-moveit-ros-robot-interaction
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-robot-interaction.git
+[submodule "ros2/ros2-humble-moveit-ros-visualization"]
+	path = ros2/ros2-humble-moveit-ros-visualization
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-visualization.git
+[submodule "ros2/ros2-humble-moveit-ros-warehouse"]
+	path = ros2/ros2-humble-moveit-ros-warehouse
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-ros-warehouse.git
+[submodule "ros2/ros2-humble-moveit-simple-controller-manager"]
+	path = ros2/ros2-humble-moveit-simple-controller-manager
+	url = ssh://aur@aur.archlinux.org/ros2-humble-moveit-simple-controller-manager.git
+[submodule "ros2/ros2-humble-nav2-amcl"]
+	path = ros2/ros2-humble-nav2-amcl
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-amcl.git
+[submodule "ros2/ros2-humble-nav2-behaviors"]
+	path = ros2/ros2-humble-nav2-behaviors
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-behaviors.git
+[submodule "ros2/ros2-humble-nav2-behavior-tree"]
+	path = ros2/ros2-humble-nav2-behavior-tree
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-behavior-tree.git
+[submodule "ros2/ros2-humble-nav2-bringup"]
+	path = ros2/ros2-humble-nav2-bringup
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-bringup.git
+[submodule "ros2/ros2-humble-nav2-bt-navigator"]
+	path = ros2/ros2-humble-nav2-bt-navigator
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-bt-navigator.git
+[submodule "ros2/ros2-humble-nav2-collision-monitor"]
+	path = ros2/ros2-humble-nav2-collision-monitor
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-collision-monitor.git
+[submodule "ros2/ros2-humble-nav2-common"]
+	path = ros2/ros2-humble-nav2-common
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-common.git
+[submodule "ros2/ros2-humble-nav2-constrained-smoother"]
+	path = ros2/ros2-humble-nav2-constrained-smoother
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-constrained-smoother.git
+[submodule "ros2/ros2-humble-nav2-controller"]
+	path = ros2/ros2-humble-nav2-controller
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-controller.git
+[submodule "ros2/ros2-humble-nav2-core"]
+	path = ros2/ros2-humble-nav2-core
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-core.git
+[submodule "ros2/ros2-humble-nav2-costmap-2d"]
+	path = ros2/ros2-humble-nav2-costmap-2d
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-costmap-2d.git
+[submodule "ros2/ros2-humble-nav-2d-msgs"]
+	path = ros2/ros2-humble-nav-2d-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav-2d-msgs.git
+[submodule "ros2/ros2-humble-nav-2d-utils"]
+	path = ros2/ros2-humble-nav-2d-utils
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav-2d-utils.git
+[submodule "ros2/ros2-humble-nav2-dwb-controller"]
+	path = ros2/ros2-humble-nav2-dwb-controller
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-dwb-controller.git
+[submodule "ros2/ros2-humble-nav2-lifecycle-manager"]
+	path = ros2/ros2-humble-nav2-lifecycle-manager
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-lifecycle-manager.git
+[submodule "ros2/ros2-humble-nav2-map-server"]
+	path = ros2/ros2-humble-nav2-map-server
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-map-server.git
+[submodule "ros2/ros2-humble-nav2-msgs"]
+	path = ros2/ros2-humble-nav2-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-msgs.git
+[submodule "ros2/ros2-humble-nav2-navfn-planner"]
+	path = ros2/ros2-humble-nav2-navfn-planner
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-navfn-planner.git
+[submodule "ros2/ros2-humble-nav2-planner"]
+	path = ros2/ros2-humble-nav2-planner
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-planner.git
+[submodule "ros2/ros2-humble-nav2-regulated-pure-pursuit-controller"]
+	path = ros2/ros2-humble-nav2-regulated-pure-pursuit-controller
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-regulated-pure-pursuit-controller.git
+[submodule "ros2/ros2-humble-nav2-rotation-shim-controller"]
+	path = ros2/ros2-humble-nav2-rotation-shim-controller
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-rotation-shim-controller.git
+[submodule "ros2/ros2-humble-nav2-rviz-plugins"]
+	path = ros2/ros2-humble-nav2-rviz-plugins
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-rviz-plugins.git
+[submodule "ros2/ros2-humble-nav2-simple-commander"]
+	path = ros2/ros2-humble-nav2-simple-commander
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-simple-commander.git
+[submodule "ros2/ros2-humble-nav2-smac-planner"]
+	path = ros2/ros2-humble-nav2-smac-planner
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-smac-planner.git
+[submodule "ros2/ros2-humble-nav2-smoother"]
+	path = ros2/ros2-humble-nav2-smoother
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-smoother.git
+[submodule "ros2/ros2-humble-nav2-theta-star-planner"]
+	path = ros2/ros2-humble-nav2-theta-star-planner
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-theta-star-planner.git
+[submodule "ros2/ros2-humble-nav2-util"]
+	path = ros2/ros2-humble-nav2-util
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-util.git
+[submodule "ros2/ros2-humble-nav2-velocity-smoother"]
+	path = ros2/ros2-humble-nav2-velocity-smoother
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-velocity-smoother.git
+[submodule "ros2/ros2-humble-nav2-voxel-grid"]
+	path = ros2/ros2-humble-nav2-voxel-grid
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-voxel-grid.git
+[submodule "ros2/ros2-humble-nav2-waypoint-follower"]
+	path = ros2/ros2-humble-nav2-waypoint-follower
+	url = ssh://aur@aur.archlinux.org/ros2-humble-nav2-waypoint-follower.git
+[submodule "ros2/ros2-humble-navigation2"]
+	path = ros2/ros2-humble-navigation2
+	url = ssh://aur@aur.archlinux.org/ros2-humble-navigation2.git
+[submodule "ros2/ros2-humble-object-recognition-msgs"]
+	path = ros2/ros2-humble-object-recognition-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-object-recognition-msgs.git
+[submodule "ros2/ros2-humble-octomap-msgs-git"]
+	path = ros2/ros2-humble-octomap-msgs-git
+	url = ssh://aur@aur.archlinux.org/ros2-humble-octomap-msgs-git.git
+[submodule "ros2/ros2-humble-pal-gazebo-plugins"]
+	path = ros2/ros2-humble-pal-gazebo-plugins
+	url = ssh://aur@aur.archlinux.org/ros2-humble-pal-gazebo-plugins.git
+[submodule "ros2/ros2-humble-parameter-traits"]
+	path = ros2/ros2-humble-parameter-traits
+	url = ssh://aur@aur.archlinux.org/ros2-humble-parameter-traits.git
+[submodule "ros2/ros2-humble-play-motion2"]
+	path = ros2/ros2-humble-play-motion2
+	url = ssh://aur@aur.archlinux.org/ros2-humble-play-motion2.git
+[submodule "ros2/ros2-humble-play-motion2-msgs"]
+	path = ros2/ros2-humble-play-motion2-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-play-motion2-msgs.git
+[submodule "ros2/ros2-humble-position-controllers"]
+	path = ros2/ros2-humble-position-controllers
+	url = ssh://aur@aur.archlinux.org/ros2-humble-position-controllers.git
+[submodule "ros2/ros2-humble-random-numbers"]
+	path = ros2/ros2-humble-random-numbers
+	url = ssh://aur@aur.archlinux.org/ros2-humble-random-numbers.git
+[submodule "ros2/ros2-humble-realtime-tools"]
+	path = ros2/ros2-humble-realtime-tools
+	url = ssh://aur@aur.archlinux.org/ros2-humble-realtime-tools.git
+[submodule "ros2/ros2-humble-ros2-control-test-assets"]
+	path = ros2/ros2-humble-ros2-control-test-assets
+	url = ssh://aur@aur.archlinux.org/ros2-humble-ros2-control-test-assets.git
+[submodule "ros2/ros2-humble-rsl"]
+	path = ros2/ros2-humble-rsl
+	url = ssh://aur@aur.archlinux.org/ros2-humble-rsl.git
+[submodule "ros2/ros2-humble-ruckig"]
+	path = ros2/ros2-humble-ruckig
+	url = ssh://aur@aur.archlinux.org/ros2-humble-ruckig.git
+[submodule "ros2/ros2-humble-slam-toolbox"]
+	path = ros2/ros2-humble-slam-toolbox
+	url = ssh://aur@aur.archlinux.org/ros2-humble-slam-toolbox.git
+[submodule "ros2/ros2-humble-smclib"]
+	path = ros2/ros2-humble-smclib
+	url = ssh://aur@aur.archlinux.org/ros2-humble-smclib.git
+[submodule "ros2/ros2-humble-srdfdom"]
+	path = ros2/ros2-humble-srdfdom
+	url = ssh://aur@aur.archlinux.org/ros2-humble-srdfdom.git
+[submodule "ros2/ros2-humble-tcb-span"]
+	path = ros2/ros2-humble-tcb-span
+	url = ssh://aur@aur.archlinux.org/ros2-humble-tcb-span.git
+[submodule "ros2/ros2-humble-teleop-tools-msgs"]
+	path = ros2/ros2-humble-teleop-tools-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-teleop-tools-msgs.git
+[submodule "ros2/ros2-humble-teleop-twist-keyboard"]
+	path = ros2/ros2-humble-teleop-twist-keyboard
+	url = ssh://aur@aur.archlinux.org/ros2-humble-teleop-twist-keyboard.git
+[submodule "ros2/ros2-humble-tl-expected"]
+	path = ros2/ros2-humble-tl-expected
+	url = ssh://aur@aur.archlinux.org/ros2-humble-tl-expected.git
+[submodule "ros2/ros2-humble-twist-mux"]
+	path = ros2/ros2-humble-twist-mux
+	url = ssh://aur@aur.archlinux.org/ros2-humble-twist-mux.git
+[submodule "ros2/ros2-humble-urdf-parser-py"]
+	path = ros2/ros2-humble-urdf-parser-py
+	url = ssh://aur@aur.archlinux.org/ros2-humble-urdf-parser-py.git
+[submodule "ros2/ros2-humble-vision-msgs"]
+	path = ros2/ros2-humble-vision-msgs
+	url = ssh://aur@aur.archlinux.org/ros2-humble-vision-msgs.git
+[submodule "ros2/ros2-humble-warehouse-ros"]
+	path = ros2/ros2-humble-warehouse-ros
+	url = ssh://aur@aur.archlinux.org/ros2-humble-warehouse-ros.git
+[submodule "ros2/ros2-humble-xacro"]
+	path = ros2/ros2-humble-xacro
+	url = ssh://aur@aur.archlinux.org/ros2-humble-xacro.git
