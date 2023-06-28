@@ -328,3 +328,6 @@
 [submodule "ros2/ros2-humble-xacro"]
 	path = ros2/ros2-humble-xacro
 	url = ssh://aur@aur.archlinux.org/ros2-humble-xacro.git
+[submodule "pulsarctl"]
+	path = pulsarctl
+	url = ssh://aur@aur.archlinux.org/pulsarctl.git
